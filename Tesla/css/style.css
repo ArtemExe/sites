@@ -224,6 +224,7 @@ a{
 }
 .speed__img{
    max-width: 570px;
+   object-fit: cover;
 }
 .speed__title{
    font-size: 36px;
